@@ -1,4 +1,4 @@
-# jsGrid Lightweight Grid jQuery Plugin
+# Fork of jsGrid - A Lightweight Grid jQuery Plugin
 
 [![Build Status](https://travis-ci.org/tabalinas/jsgrid.svg?branch=master)](https://travis-ci.org/tabalinas/jsgrid)
 
